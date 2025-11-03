@@ -16,18 +16,18 @@
 </td>
 <td width="60%">
 
-### 🚀 About Me 
+### About Me 
 
 I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate about integrating AI solutions into real-world applications:
 
-- 🤖 **AI Integration**: Assistants, Agents, Sentiment Analysis
-- 🔍 **Smart Systems**: Intelligent Search, Recommendation Engines, Spam Detection
-- 💻 **Full-Stack Development**: Web Applications & Modern Frameworks
-- ⚙️ **DevOps**: Complete CI/CD workflows from planning to monitoring
+- **AI Integration**: Assistants, Agents, Sentiment Analysis
+- **Smart Systems**: Intelligent Search, Recommendation Engines, Spam Detection
+- **Full-Stack Development**: Web Applications & Modern Frameworks
+- **DevOps**: Complete CI/CD workflows from planning to monitoring
 
 > *"AI will transform our roles — I'm mastering it before it replaces me."*
 
-### 🌐 Let's Connect!
+### Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelwahedsouid/">
@@ -49,7 +49,7 @@ I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate ab
 
 <br>
 
-**🌟 Personal Website Coming Soon...**
+**Personal Website Coming Soon...**
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate ab
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -96,7 +96,7 @@ I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate ab
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelwahedSouiid&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
