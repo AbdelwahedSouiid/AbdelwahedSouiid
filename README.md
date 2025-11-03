@@ -8,7 +8,7 @@
   
 <td width="50%">
 
-![Profile Image](abdou.png)
+![Profile Image](abdou-removebg-preview.png)
 
 </td>
 <td width="50%">
