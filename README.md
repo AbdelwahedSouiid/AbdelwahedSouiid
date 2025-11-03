@@ -25,19 +25,16 @@ Believing that AI will transform our roles, I strive to secure my place by maste
 ### Lets Connect !!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdelwahedsouid/" >
+  <a href="https://www.linkedin.com/in/abdelwahedsouid/" style="margin-right: 8px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@AbdelwahedSouidChannel">
+  <a href="https://www.youtube.com/@AbdelwahedSouidChannel" style="margin-right: 8px;">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <!-- <a href="https://gitlab.com/your-gitlab-username" >
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  /> -->
-  </a>
-  <a href="abdelwahedsouid@gmail.com" >
+  <a href="mailto:abdelwahedsouid@gmail.com" style="margin-right: 8px;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.kaggle.com/abdelwahedsouiid" >
+  <a href="https://www.kaggle.com/abdelwahedsouiid" style="margin-right: 8px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="25" alt="kaggle logo"  />
   </a>
   <a href="https://x.com/AbdelwahedSouid">
@@ -88,6 +85,7 @@ Believing that AI will transform our roles, I strive to secure my place by maste
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
+
 ###
 
 
