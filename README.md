@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Alt text](ChatGPT_Image_26_juin_2025_21_22_00.png)
 
 <!--
 **AbdelwahedSouiid/AbdelwahedSouiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
