@@ -47,7 +47,7 @@ Believing that AI will transform our roles, I strive to secure my place by maste
 
 **Personal WebSite is Loading**
 <div align="center">
-  <img height="200" src="https://media.tenor.com/G7LfW0O5qb8AAAAi/loading-gif.gif"  />
+  <img height="200" src="https://pierrehaddad.com/cdn/shop/t/2/assets/loading.gif?v=157493769327766696621636595199"  />
 </div>
 
 </td>
