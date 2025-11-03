@@ -1,6 +1,7 @@
 <div align="center">
   
 # 👋 Salut, je suis Abdelwahed Souid
+
 </div>
 
 <table border="0">
@@ -13,14 +14,10 @@
 </td>
 <td width="50%">
 
-
-
 ### About Me 
 
 Je suis un développeur qui aime transformer des idées en réalité. 
 Passionné par les nouvelles technologies et l'apprentissage continu.
-
-
 
 ### Lets Connect !!
 
