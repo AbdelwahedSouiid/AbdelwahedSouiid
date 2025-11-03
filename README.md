@@ -18,11 +18,7 @@
 Je suis un développeur qui aime transformer des idées en réalité. 
 Passionné par les nouvelles technologies et l'apprentissage continu.
 
-### Skills
 
-- Développement Web  
-- Programmation  
-- Design & UI/UX
 
 ### Lets Connect !!
 
@@ -32,3 +28,8 @@ Passionné par les nouvelles technologies et l'apprentissage continu.
 </td>
 </tr>
 </table>
+### Skills
+
+- Développement Web  
+- Programmation  
+- Design & UI/UX
