@@ -99,8 +99,8 @@ I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate ab
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelwahedSouiid&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelwahedSouiid&layout=compact&theme=radical" alt="Top Languages" height="165">
 </div>
 
 ---
@@ -109,6 +109,6 @@ I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate ab
   
 ### 💡 *"The best way to predict the future is to create it."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AbdelwahedSouiid&color=blueviolet&style=flat-square)
 
 </div>
