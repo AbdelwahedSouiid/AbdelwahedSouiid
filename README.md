@@ -2,7 +2,7 @@
 <tr>
 <td width="50%">
 
-![Profile Image](ChatGPT_Image_26_juin_2025_21_22_00.png)
+![Profile Image](abdou.png)
 
 </td>
 <td width="50%">
