@@ -45,9 +45,9 @@ Believing that AI will transform our roles, I strive to secure my place by maste
   </a>
 </div>
 
-
+**Personal WebSite is Loading**
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media.tenor.com/G7LfW0O5qb8AAAAi/loading-gif.gif"  />
 </div>
 
 </td>
