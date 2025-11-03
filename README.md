@@ -1,6 +1,5 @@
 # 👋 Salut, je suis Abdelwahed Souid
 
-🚀 Développeur passionné par la création de solutions innovantes
 <table>
 <tr>
   
@@ -28,6 +27,7 @@ Passionné par les nouvelles technologies et l'apprentissage continu.
 </td>
 </tr>
 </table>
+
 ### Skills
 
 - Développement Web  
