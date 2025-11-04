@@ -33,7 +33,7 @@ I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate ab
   <a href="https://www.linkedin.com/in/abdelwahedsouid/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@AbdelwahedSouidChannel">
+  <a href="https://www.youtube.com/@abdelwahedsouid-10">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="mailto:abdelwahedsouid@gmail.com">
