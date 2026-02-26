@@ -1,55 +1,41 @@
 <div align="center">
-  
-# 👋 Hey, I'm Abdelwahed SOUID
 
-**Computer Engineer | AI & Data Science Specialist | Full-Stack Developer**
+# 👋 Hey, I'm Abdelwahed SOUID
+**Computer Engineer | AI & Agentic Systems Specialist | Full-Stack Developer**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+Intelligent+Agent+Workflows;Data+Science+%26+Predictive+Analytics;Full-Stack+Enterprise+Solutions;Bridging+AI+with+Real-World+Software)](https://git.io/typing-svg)
 
 </div>
 
 <table border="0">
 <tr>
-  
-<td width="40%" align="center">
-
-<img src="abdou-removebg-preview.png" alt="Profile Image" width="90%">
-
+<td width="35%" align="center">
+<img src="abdou-removebg-preview.png" alt="Profile Image" width="100%">
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=AbdelwahedSouiid&theme=radical&column=2&margin-w=15&no-bg=true" alt="Trophies" width="100%">
 </td>
-<td width="60%">
+<td width="65%" valign="top">
 
-### About Me 
+### ⚡ About Me 
 
-I'm a Computer Engineer specialized in **Data Science**, passionate about integrating AI solutions into real-world applications:
+I am a **Computer Engineer** obsessed with the intersection of **AI Agents** and scalable software architecture. I don't just build models; I build autonomous systems that solve business problems.
 
-- **AI Integration**: Assistants, Agents, Sentiment Analysis , Multi-Agents , Workflows 
-- **Smart Systems**: Intelligent Search, Recommendation Engines, Spam Detection
-- **Full-Stack Development**: Web Applications & Modern Frameworks
-- **DevOps**: Complete CI/CD workflows from planning to monitoring
+- **🤖 Agentic AI**: Architecting Multi-Agent Systems (MAS) using LangGraph, ReAct patterns, and Supervisor-Worker workflows.
+- **🧠 Smart Intelligence**: Implementing RAG (Retrieval-Augmented Generation), Semantic Search, and Recommendation Engines.
+- **💻 Full-Stack Mastery**: Engineering robust backends (Spring, FastAPI) paired with modern, reactive frontends.
+- **🚀 DevOps & MLOps**: Streamlining the lifecycle from Jupyter notebooks to production-grade Dockerized deployments.
 
-> *"AI will transform our roles — I'm mastering it before it replaces me."*
+> *"AI won't replace engineers, but engineers who use AI will replace those who don't. I'm choosing the former."*
 
-### Let's Connect!
+### 🌐 Connect with me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdelwahedsouid/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@abdelwahedsouid-10">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="mailto:abdelwahedsouid@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.kaggle.com/abdelwahedsouiid">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"  />
-  </a>
-  <a href="https://x.com/AbdelwahedSouid">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-<br>
-
-**Personal Website Coming Soon...**
+<p align="left">
+<a href="https://www.linkedin.com/in/abdelwahedsouid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+<a href="https://www.youtube.com/@abdelwahedsouid-10"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28"></a>
+<a href="mailto:abdelwahedsouid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
+<a href="https://www.kaggle.com/abdelwahedsouiid"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28"></a>
+<a href="https://x.com/AbdelwahedSouid"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"></a>
+</p>
 
 </td>
 </tr>
@@ -57,68 +43,51 @@ I'm a Computer Engineer specialized in **Data Science**, passionate about integr
 
 ---
 
-### Tech Stack
+### 🛠️ Technical Ecosystem
 
-<div align="center">
-
-#### **Frontend**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" title="Angular" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind" title="Tailwind CSS" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next.svg" height="40" alt="next" title="Next" />
-#### **Backend**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" title="Spring Boot" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" title="FastAPI" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" title="Django" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony" title="Symfony" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dotnet" title=".NET" />
-#### **AI & Agentic Stack**
-<div align="center">
-LLMs & AI SDKs
-<img src="https://raw.githubusercontent.com/openai/openai-logomark/master/openai-logomark.png" height="40" alt="openai" title="OpenAI (GPT models)" /> <img width="12" /> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="40" alt="ai-sdk" title="Vercel AI SDK" /> <img width="12" /> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" height="40" alt="langchain" title="LangChain" />
-Agent Frameworks & Orchestration
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/langgraph_logo.png" height="40" alt="langgraph" title="LangGraph (Multi-Agent Orchestration)" /> <img width="12" /> <img src="https://raw.githubusercontent.com/langchain-ai/langsmith/main/docs/static/langsmith_logo.png" height="40" alt="langsmith" title="LangSmith (Tracing & Evaluation)" />
-AI System Design
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" height="40" alt="agents" title="Multi-Agent Systems (Supervisor / ReAct)" /> <img width="12" /> <img src="https://img.icons8.com/fluency/48/workflow.png" height="40" alt="workflow" title="Agentic Workflows & State Machines" /> <img width="12" /> <img src="https://img.icons8.com/fluency/48/database.png" height="40" alt="vector-db" title="Vector Search & Embeddings" /> </div>
-
-
-#### **DevOps & Tools**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" title="GitHub" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" title="Grafana" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus" title="Prometheus" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Frontend & UI</h4>
+      <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,html,css" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Logic</h4>
+      <img src="https://skillicons.dev/icons?i=spring,fastapi,django,dotnet,symfony" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI & Agentic Stack</h4>
+      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain">
+      <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graph&logoColor=white" alt="LangGraph">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/Vector_DB-FF4B4B?style=flat-square&logo=databricks&logoColor=white" alt="Chroma/Pinecone">
+      <br>
+      <small>Multi-Agent Orchestration • RAG • Semantic Search</small>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ DevOps & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=docker,github,prometheus,grafana,git,linux" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelwahedSouiid&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelwahedSouiid&layout=compact&theme=radical" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelwahedSouiid&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelwahedSouiid&layout=compact&theme=radical&border_radius=10" height="180">
 </div>
 
 ---
 
 <div align="center">
-  
+
 ### 💡 *"The best way to predict the future is to create it."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbdelwahedSouiid&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AbdelwahedSouiid&color=36BCF7&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
