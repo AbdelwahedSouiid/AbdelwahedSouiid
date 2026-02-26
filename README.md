@@ -18,9 +18,9 @@
 
 ### About Me 
 
-I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate about integrating AI solutions into real-world applications:
+I'm a Computer Engineer specialized in **Data Science**, passionate about integrating AI solutions into real-world applications:
 
-- **AI Integration**: Assistants, Agents, Sentiment Analysis
+- **AI Integration**: Assistants, Agents, Sentiment Analysis , Multi-Agents , Workflows 
 - **Smart Systems**: Intelligent Search, Recommendation Engines, Spam Detection
 - **Full-Stack Development**: Web Applications & Modern Frameworks
 - **DevOps**: Complete CI/CD workflows from planning to monitoring
@@ -71,7 +71,8 @@ I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate ab
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind" title="Tailwind CSS" />
-
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next.svg" height="40" alt="next" title="Next" />
 #### **Backend**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" title="Spring Boot" />
 <img width="12" />
@@ -82,6 +83,15 @@ I'm a Computer Engineer specialized in **Data Science** at ESPRIT, passionate ab
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony" title="Symfony" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dotnet" title=".NET" />
+#### **AI & Agentic Stack**
+<div align="center">
+LLMs & AI SDKs
+<img src="https://raw.githubusercontent.com/openai/openai-logomark/master/openai-logomark.png" height="40" alt="openai" title="OpenAI (GPT models)" /> <img width="12" /> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="40" alt="ai-sdk" title="Vercel AI SDK" /> <img width="12" /> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" height="40" alt="langchain" title="LangChain" />
+Agent Frameworks & Orchestration
+<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/langgraph_logo.png" height="40" alt="langgraph" title="LangGraph (Multi-Agent Orchestration)" /> <img width="12" /> <img src="https://raw.githubusercontent.com/langchain-ai/langsmith/main/docs/static/langsmith_logo.png" height="40" alt="langsmith" title="LangSmith (Tracing & Evaluation)" />
+AI System Design
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" height="40" alt="agents" title="Multi-Agent Systems (Supervisor / ReAct)" /> <img width="12" /> <img src="https://img.icons8.com/fluency/48/workflow.png" height="40" alt="workflow" title="Agentic Workflows & State Machines" /> <img width="12" /> <img src="https://img.icons8.com/fluency/48/database.png" height="40" alt="vector-db" title="Vector Search & Embeddings" /> </div>
+
 
 #### **DevOps & Tools**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
