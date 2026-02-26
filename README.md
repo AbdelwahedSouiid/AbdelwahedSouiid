@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Abdelwahed SOUID
 **Computer Engineer | AI & Agentic Systems Specialist | Full-Stack Developer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+Intelligent+Agent+Workflows;Data+Science+%26+Predictive+Analytics;Full-Stack+Enterprise+Solutions;Bridging+AI+with+Real-World+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+Agentic+Workflows;Mastra+%2B+Vercel+AI+SDK;Real-time+Voice+Agents;Full-Stack+Enterprise+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,21 +11,19 @@
 <tr>
 <td width="35%" align="center">
 <img src="abdou-removebg-preview.png" alt="Profile Image" width="100%">
-<br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=AbdelwahedSouiid&theme=radical&column=2&margin-w=15&no-bg=true" alt="Trophies" width="100%">
 </td>
 <td width="65%" valign="top">
 
 ### ⚡ About Me 
 
-I am a **Computer Engineer** obsessed with the intersection of **AI Agents** and scalable software architecture. I don't just build models; I build autonomous systems that solve business problems.
+I am a **Computer Engineer** focused on the next generation of AI: **Agentic Systems** and **Real-Time Interaction**. I build autonomous systems that don't just "chat," but "act."
 
-- **🤖 Agentic AI**: Architecting Multi-Agent Systems (MAS) using LangGraph, ReAct patterns, and Supervisor-Worker workflows.
-- **🧠 Smart Intelligence**: Implementing RAG (Retrieval-Augmented Generation), Semantic Search, and Recommendation Engines.
-- **💻 Full-Stack Mastery**: Engineering robust backends (Spring, FastAPI) paired with modern, reactive frontends.
-- **🚀 DevOps & MLOps**: Streamlining the lifecycle from Jupyter notebooks to production-grade Dockerized deployments.
+- **🤖 Agentic Frameworks**: Mastering **Mastra** for local-first agents and **LangGraph** for complex state machines.
+- **🎙️ Real-Time Voice**: Engineering low-latency voice agents using WebSockets, VAD (Voice Activity Detection), and streaming TTS/STT.
+- **🔗 AI Orchestration**: Leveraging **Vercel AI SDK** for seamless LLM streaming and UI-integrated tool calling.
+- **💻 Full-Stack Mastery**: Bridging high-performance backends (FastAPI, Spring) with modern DX.
 
-> *"AI won't replace engineers, but engineers who use AI will replace those who don't. I'm choosing the former."*
+> *"The future isn't just a chatbot; it's a collaborative agentic workflow."*
 
 ### 🌐 Connect with me
 
@@ -34,7 +32,6 @@ I am a **Computer Engineer** obsessed with the intersection of **AI Agents** and
 <a href="https://www.youtube.com/@abdelwahedsouid-10"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28"></a>
 <a href="mailto:abdelwahedsouid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
 <a href="https://www.kaggle.com/abdelwahedsouiid"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28"></a>
-<a href="https://x.com/AbdelwahedSouid"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"></a>
 </p>
 
 </td>
@@ -48,39 +45,34 @@ I am a **Computer Engineer** obsessed with the intersection of **AI Agents** and
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Frontend & UI</h4>
-      <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,html,css" />
+      <h4>🤖 Agentic & AI Stack</h4>
+      <img src="https://img.shields.io/badge/Mastra-%23000000.svg?style=flat-square&logo=mastra&logoColor=white" alt="Mastra"> 
+      <img src="https://img.shields.io/badge/AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK">
+      <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graph&logoColor=white" alt="LangGraph">
+      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain">
+      <br>
+      <small>Multi-Agent Systems • Tool Calling • Long-term Memory</small>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend & Logic</h4>
-      <img src="https://skillicons.dev/icons?i=spring,fastapi,django,dotnet,symfony" />
+      <h4>🎙️ Real-Time & Voice</h4>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets">
+      <img src="https://img.shields.io/badge/Streaming_TTS-FF4B4B?style=flat-square&logo=audio-technica&logoColor=white" alt="TTS">
+      <img src="https://img.shields.io/badge/VAD-36BCF7?style=flat-square&logo=sound-charts&logoColor=white" alt="Voice Activity Detection">
+      <br>
+      <small>Low-latency Voice AI • Real-time Speech Pipeline</small>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI & Agentic Stack</h4>
-      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain">
-      <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graph&logoColor=white" alt="LangGraph">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-      <img src="https://img.shields.io/badge/Vector_DB-FF4B4B?style=flat-square&logo=databricks&logoColor=white" alt="Chroma/Pinecone">
-      <br>
-      <small>Multi-Agent Orchestration • RAG • Semantic Search</small>
+      <h4>⚙️ Backend & Logic</h4>
+      <img src="https://skillicons.dev/icons?i=fastapi,spring,django,dotnet,py" />
     </td>
     <td width="50%" valign="top">
-      <h4>☁️ DevOps & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=docker,github,prometheus,grafana,git,linux" />
+      <h4>🌐 Frontend & UI</h4>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,ts" />
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelwahedSouiid&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelwahedSouiid&layout=compact&theme=radical&border_radius=10" height="180">
-</div>
 
 ---
 
